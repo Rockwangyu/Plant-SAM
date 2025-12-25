@@ -2,12 +2,12 @@
 
 ## 1. Data Preparation
 
-LeafSeg-22K can be downloaded from https://huggingface.co/sam-hq-team/sam-hq-training/tree/main/data)
+LeafSeg-22K and specific subtasks of the LeafSeg-22K dataset can be downloaded from (https://pan.quark.cn/s/7745074a2fc0)
 
 
 ## 2. Expected checkpoint
+The pretrained_checkpoint can be downloaded from (https://pan.quark.cn/s/e7923717406e)
 
-```
 pretrained_checkpoint
 |____sam_vit_b_maskdecoder.pth
 |____sam_vit_b_01ec64.pth
