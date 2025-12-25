@@ -16,7 +16,7 @@ pretrained_checkpoint
 |____sam_vit_h_maskdecoder.pth
 |____sam_vit_h_4b8939.pth
 
-```
+
 
 ## 3. Training
 To train Plant-SAM on LeafSeg-22Kdataset
