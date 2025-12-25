@@ -9,11 +9,8 @@ LeafSeg-22K and specific subtasks of the LeafSeg-22K dataset can be downloaded f
 The pretrained_checkpoint can be downloaded from (https://pan.quark.cn/s/e7923717406e)
 ```
 pretrained_checkpoint
-|____sam_vit_b_maskdecoder.pth
 |____sam_vit_b_01ec64.pth
-|____sam_vit_l_maskdecoder.pth
 |____sam_vit_l_0b3195.pth
-|____sam_vit_h_maskdecoder.pth
 |____sam_vit_h_4b8939.pth
 
 ```
